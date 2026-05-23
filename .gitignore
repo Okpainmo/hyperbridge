@@ -67,3 +67,6 @@ parachain/simtests/hyperbridge-main-binary
 **/config.example.toml
 evm/script/UpdateConsensusClient.s.sol
 evm/script/update-consensus-client.sh
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
